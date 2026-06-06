@@ -1,6 +1,6 @@
 package Polymorphism;
 
-public class methOerload {
+public class methOverload {
     public static void main(String[]args){
         Calculator calc=new Calculator();
         System.out.println(calc.Sum(5,6));
